@@ -1,0 +1,123 @@
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  height: 500px;
+  margin: 0;
+}
+
+body {
+  margin: 0;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin-top: 0;
+  margin-bottom: 0;
+  position: absolute;
+  left: 684px;
+  top: 100px;
+  font-family: 'Sacramento', cursive;
+}
+
+.mountain {
+  position: relative;
+  left: 450px;
+  top: 110px;
+}
+
+p {
+  position: relative;
+  top: 144px;
+  left: 679px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.cloud {
+  position: relative;
+  bottom: 127px;
+  right: 156px;
+}
+
+.cloud1 {
+  position: relative;
+  bottom: 238px;
+  left: 108px;
+}
+
+.profile-pic {
+  position: absolute;
+  left: 691px;
+  top: 546px;
+}
+
+.hi {
+  position: relative;
+  left: 736px;
+}
+
+.middle-text {
+  position: absolute;
+  top: 678px;
+  left: 200px;
+}
+
+.middle-container {
+  height: 250px;
+  margin-top: 0;
+  background-color: #f9f7f7;
+  padding: 10px;
+}
+
+.bottom-container {
+  background-color: #f9f7f7;
+  height: 290px;
+  padding: 10px;
+  position: relative;
+}
+
+.comp {
+  position: relative;
+  left: 700px;
+}
+
+.text {
+  position: absolute;
+  left: 621px;
+  top: 80px;
+  font-family: 'Sacramento', cursive;
+  font-size: 40px;
+  margin-top: 10px;
+}
+
+.tab {
+  position: relative;
+  top: 100px;
+  left: 400px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.footer {
+  background-color: #f9f7f7;
+  height: 200px;
+  padding: 10px;
+  position: relative;
+}
+
+.text2 {
+  position: absolute;
+  top: 50px;
+  left: 700;
+  font-size: 40px;
+  font-family: 'Sacramento', cursive;
+}
+
+.text3 {
+  position: absolute;
+  left: 550px;
+}
+
+.reachout {
+  position: relative;
+  top: 190px;
+  left: 680px;
+}
